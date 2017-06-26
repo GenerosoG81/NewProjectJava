@@ -1,1 +1,1 @@
-READ MEQuesto è un progetto esempio per vedere come funziona git
+READ MEQuesta prima modifica del progetto esempio per vedere come funziona git
