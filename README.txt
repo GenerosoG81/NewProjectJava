@@ -1,0 +1,1 @@
+READ MEQuesto è un progetto esempio per vedere come funziona git
